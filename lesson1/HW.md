@@ -1,6 +1,6 @@
 # Home Work
 
-1. Read Transformers papers
+1. Read [Attention](https://arxiv.org/pdf/1706.03762) paper
 2. Write a LinkedIn / Instagram Post about it
 3. Colab Notebook Run all Cells
 4. PyTorch Blitz - 60 mins
